@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working as an iOS Developer for Yassir<br>🤝 TechLead / ScrumMaster of the Shared Service Team <br>🌱 I’m currently learning advanced Swift Principles and Team Management Skills<br><br>⚡ Find me in a Boulder Club, in a Skate Park or at home in from of my computer
+🔭 I’m currently working as an iOS Developer for Yassir<br>🤝 TechLead / ScrumMaster of the Shared Service Team <br>🌱 I’m currently learning advanced Swift Principles and Team Management Skills<br><br>⚡ Find me in a Boulder Club, in a Skate Park or at home in front of my computer.
 
 
 # 💻 Tech Stack:
